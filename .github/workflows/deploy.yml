@@ -1,0 +1,23 @@
+name: build
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  Rebuild-everything:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install packages
+      - run: pip install -r .requirements.txt
+      - run: mkdocs build --strict
+      - name: Generate CNAME File
+      - run: echo weekly.bigdreamer.cc > CNAME
+      - run: mkdir docs && echo weekly.bigdreamer.cc > docs/CNAME
+      - uses: mhausenblas/mkdocs-deploy-gh-pages@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CUSTOM_DOMAIN: weekly.bigdreamer.cc
+          CONFIG_FILE: mkdocs.yml
+          REQUIREMENTS: .requirements.txt
