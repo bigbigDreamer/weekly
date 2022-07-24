@@ -13,10 +13,10 @@ jobs:
         uses: actions/checkout@v3 # 脚本来自 https://github.com/actions/checkout
         with:
           ref: main
-      - name: Install packages
+      # Install packages
       - run: pip install -r .requirements.txt
       - run: mkdocs build --strict
-      - name: Generate CNAME File
+      # Generate CNAME File
       - run: echo weekly.bigdreamer.cc > CNAME
       - run: mkdir docs && echo weekly.bigdreamer.cc > docs/CNAME
       - uses: mhausenblas/mkdocs-deploy-gh-pages@master
