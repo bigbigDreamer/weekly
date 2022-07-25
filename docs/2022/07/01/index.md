@@ -41,7 +41,7 @@ template: main.html
 
 🐶全文无"脏"字的帮我们树立如何摆脱使用 `git` 后陷入的一些常见的困境～
 
-## Material for MkDocs 'Scotch Bonnet'
+## 4. Material for MkDocs 'Scotch Bonnet'
 
 [Martin Donath](https://github.com/squidfunk)，也就是 [mkdocs-material](https://github.com/squidfunk/mkdocs-material) 的作者，即将达到他**每个月 $8000**的目标。
 
