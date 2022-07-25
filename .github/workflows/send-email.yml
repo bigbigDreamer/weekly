@@ -15,15 +15,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 'Send mail'
-          uses: dawidd6/action-send-mail@v3
-          with:
-            server_address: smtp.163.com
-            server_port: 465
-            username: ${{ secrets.MAIL_USERNAME }}
-            password: ${{ secrets.MAIL_PASSWORD }}
-            subject: ${{ github.event.inputs.emailSubject }}
-            html_body: |
-              <!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport"          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge"><title>Document</title><style>        html,body,iframe {            height: 100%;        }</style></head><body><iframe src="${{ github.event.inputs.htmlBody }}" width="100%" height="100vh" style="border: none"></iframe></body></html>
-            to: jadeface.scholar@gmail.com
-            from: 书生的手写代码系列
-            content_type: text/html
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.163.com
+          server_port: 465
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: ${{ github.event.inputs.emailSubject }}
+          html_body: |
+            <!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport"          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"><meta http-equiv="X-UA-Compatible" content="ie=edge"><title>Document</title><style>        html,body,iframe {            height: 100%;        }</style></head><body><iframe src="${{ github.event.inputs.htmlBody }}" width="100%" height="100vh" style="border: none"></iframe></body></html>
+          to: jadeface.scholar@gmail.com
+          from: 书生的手写代码系列
+          content_type: text/html
