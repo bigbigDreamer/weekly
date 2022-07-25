@@ -86,7 +86,7 @@ nav:
   - 周刊:
       - 2022: # 2022:
          - 七月:
-             - 第一期: ./docs/2022/07/01/index.md
+             - 第1期: ./docs/2022/07/01/index.md
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
 

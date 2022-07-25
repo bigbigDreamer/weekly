@@ -25,6 +25,10 @@
         font-size: 12px !important;
     }
 
+    .wl-card {
+        font-size: 12px;
+    }
+
     .wl-count {
         font-size: 16px !important;
     }
@@ -44,7 +48,15 @@
     Waline.init(
         {
             el: '#waline-container',
-            serverURL: "https://waline.bigdreamer.cc"
+            serverURL: "https://waline.bigdreamer.cc",
+            locale: {
+                level0: '炼体',
+                level1: '炼气',
+                level2: '筑基',
+                level3: '金丹',
+                level4: '元婴',
+                level5: '化神',
+            },
         }
     )
 </script>
