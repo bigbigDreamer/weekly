@@ -15,8 +15,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: curl -o email.html ${{ github.event.inputs.htmlBody }}
-      - run: echo file://email.html
-      - run: cat file://email.html
+      - run: echo file:///email.html
+      - run: cat file:///email.html
       - name: 'Send mail'
         uses: dawidd6/action-send-mail@v3
         with:
