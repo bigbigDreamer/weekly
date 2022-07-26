@@ -14,7 +14,7 @@ jobs:
   bot:
     runs-on: ubuntu-latest
     steps:
-      - run: curl -o ${{ github.event.inputs.htmlBody }} ./email.html
+      - run: curl -o ${{ github.event.inputs.htmlBody }} email.html
       - name: 'Send mail'
         uses: dawidd6/action-send-mail@v3
         with:
