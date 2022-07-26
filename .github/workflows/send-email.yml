@@ -14,8 +14,7 @@ jobs:
   bot:
     runs-on: ubuntu-latest
     steps:
-      - run: |
-         BODY_URL=$(curl -s ${{ github.event.inputs.htmlBody }})
+      - run: curl -o ${{ github.event.inputs.htmlBody }} ./email.html
       - name: 'Send mail'
         uses: dawidd6/action-send-mail@v3
         with:
@@ -24,7 +23,7 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: ${{ github.event.inputs.emailSubject }}
-          html_body: ${{ $BODY_URL }}
+          html_body: ./email.html
           to: jadeface.scholar@gmail.com
           from: Scholar's Weekly
           content_type: text/html
