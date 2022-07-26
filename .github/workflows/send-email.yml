@@ -27,6 +27,6 @@ jobs:
           subject: ${{ github.event.inputs.emailSubject }}
           content_type: text/html
           html_body: | # file://email.html
-              <div><img src="https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/duCTmB.jpg"><p>Hi, Scholar's Weekly Updated! Please click <a href="${{ github.event.inputs.htmlBody }}">link</a></p></div>
+              <div><img src="https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/duCTmB.jpg"><p style="font-size: 15px">Hi, Scholar's Weekly Updated! Please click <a href="${{ github.event.inputs.htmlBody }}">link</a> to visit~</p></div>
           to: jadeface.scholar@gmail.com
           from: Scholar's Weekly
