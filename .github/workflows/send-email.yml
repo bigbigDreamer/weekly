@@ -26,7 +26,7 @@ jobs:
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: ${{ github.event.inputs.emailSubject }}
           content_type: text/html
-          html_body: file://email.html
-#            <div><p>Hi, Scholar's Weekly Updated! Please click <a href="${{ github.event.inputs.htmlBody }}">link</a></p></div>
+          html_body: | # file://email.html
+              <div><img src="https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/duCTmB.jpg"><p>Hi, Scholar's Weekly Updated! Please click <a href="${{ github.event.inputs.htmlBody }}">link</a></p></div>
           to: jadeface.scholar@gmail.com
           from: Scholar's Weekly
