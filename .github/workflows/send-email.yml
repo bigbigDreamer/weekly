@@ -23,7 +23,7 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: ${{ github.event.inputs.emailSubject }}
-          html_body: ./email.html
+          html_body: file:///email.html
           to: jadeface.scholar@gmail.com
           from: Scholar's Weekly
           content_type: text/html
