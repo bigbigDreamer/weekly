@@ -16,6 +16,7 @@ jobs:
     steps:
       - run: curl -o email.html ${{ github.event.inputs.htmlBody }}
       - run: echo file://email.html
+      - run: cat file://email.html
       - name: 'Send mail'
         uses: dawidd6/action-send-mail@v3
         with:
@@ -24,7 +25,8 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: ${{ github.event.inputs.emailSubject }}
-          html_body: file://email.html
+          html_body: |
+            <div><p>Hi, Scholar's Weekly Updated! Please click <a href="${{ github.event.inputs.htmlBody }}">link</a></p></div>
           to: jadeface.scholar@gmail.com
           from: Scholar's Weekly
           content_type: text/html
