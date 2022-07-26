@@ -25,8 +25,8 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: ${{ github.event.inputs.emailSubject }}
-          html_body: |
-            <div><p>Hi, Scholar's Weekly Updated! Please click <a href="${{ github.event.inputs.htmlBody }}">link</a></p></div>
+          html_body: file:///email.html
+#            <div><p>Hi, Scholar's Weekly Updated! Please click <a href="${{ github.event.inputs.htmlBody }}">link</a></p></div>
           to: jadeface.scholar@gmail.com
           from: Scholar's Weekly
           content_type: text/html
