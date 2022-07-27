@@ -51,8 +51,8 @@
 {% block scripts %}
 {{ super() }}
 {% if page and page.meta and page.meta.template %}
-<script defer src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
-<script defer>
+<script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
+<script>
     Waline.init(
         {
             el: '#waline-container',
