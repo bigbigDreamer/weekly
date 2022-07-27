@@ -9,6 +9,15 @@
 
 {% block styles %}
 {{ super() }}
+<script async>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?9a7e804726e2d74ebf2feb610dfc61af";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
 <link
         rel="stylesheet"
         href="https://unpkg.com/@waline/client@v2/dist/waline.css"
@@ -42,8 +51,8 @@
 {% block scripts %}
 {{ super() }}
 {% if page and page.meta and page.meta.template %}
-<script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
-<script>
+<script defer src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
+<script defer>
     Waline.init(
         {
             el: '#waline-container',
@@ -58,15 +67,6 @@
             },
         }
     )
-</script>
-<script>
-    var _hmt = _hmt || [];
-    (function() {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?9a7e804726e2d74ebf2feb610dfc61af";
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(hm, s);
-    })();
 </script>
 {% endif %}
 {% endblock %}
