@@ -5,10 +5,29 @@ repo_name: bigbigDreamer/weekly
 repo_url: https://github.com/bigbigDreamer/weekly
 edit_uri: ""
 
-use_directory_urls: true
+use_directory_urls: false
 docs_dir: .
 extra:
   homepage: https://weekly.bigdreamer.cc
+  analytics:
+    provider: google
+    property: G-XJPLDWZN92
+    feedback:
+      title: 您觉得周刊怎么样？
+      ratings:
+        - icon: material/emoticon-happy-outline
+          name: 非常棒！666！！！
+          data: 1
+          note: >-
+            谢谢你的鼓励，我会继续坚持写作的!
+        - icon: material/emoticon-sad-outline
+          name: 小编还需要再接再厉！
+          data: 0
+          note: >-
+            感谢反馈，我会继续努力进步的！
+
+
+
 theme:
   favicon: images/favicon.png
   custom_dir: overrides
