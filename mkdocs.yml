@@ -1,5 +1,7 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Scholar's Weekly
+site_description: 不换写周刊的地方～
+site_url: https://weekly.bigdreamer.cc
 # Repository
 repo_name: bigbigDreamer/weekly
 repo_url: https://github.com/bigbigDreamer/weekly
@@ -28,6 +30,19 @@ extra:
 
 
 
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/bigbigDreamer
+      name: Follow Me In GitHub
+    - icon: bootstrap/mask
+      link: https://montage.bigdreamer.cc
+      name: montageJs
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<jadeface.scholar@gmail.com>
+
+copyright: Copyright &copy; 2022  Scholar(不换)
+
 theme:
   favicon: images/favicon.png
   custom_dir: overrides
@@ -37,8 +52,8 @@ theme:
   features:
     - content.code.annotate
     # - content.tabs.link
-    # - header.autohide
-    #- navigation.expand
+#    - header.autohide
+    - navigation.expand
     #- navigation.indexes
     - navigation.instant
     - navigation.sections
@@ -68,6 +83,7 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: brown
       toggle:
         icon: material//weather-sunny
         name: Switch to dark mode
@@ -87,18 +103,28 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - attr_list
-#  - pymdownx.emoji:
-#      emoji_index: !!python/name:materialx.emoji.twemoji
-#      emoji_generator: !!python/name:materialx.emoji.to_svg
-#      options:
-#        custom_icons:
-#          - overrides/.icons
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
 
 plugins:
   - same-dir
   - search
   - minify:
       minify_html: true
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+
 
 nav:
   - 介绍: README.md
@@ -106,6 +132,7 @@ nav:
       - 2022: # 2022:
          - 七月:
              - 第1期: ./docs/2022/07/01/index.md
+             - 第2期: ./docs/2022/07/02/index.md
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
 

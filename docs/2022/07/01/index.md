@@ -6,7 +6,7 @@ template: main.html
 
 ![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/mYREQl.jpg)
 
-(封面图片来源于：基于 `CC0` 协议的[stocksnap](https://stocksnap.io/photo/pond-water-X4MGQOAX2Q))
+(封面图片来源于：基于 `CC0` 协议的 [stocksnap](https://stocksnap.io/photo/pond-water-X4MGQOAX2Q))
 
 ------
 
@@ -49,7 +49,7 @@ template: main.html
 
 ## End
 
-最后，简单总结这一个星期遇到的几个有意思的问题～
+最后，简单总结这一个星期的内容～
 
 #### 1. 给[AktivJs](https://github.com/myNameIsDu/aktiv) 提了两个 `FIX` `PR`.
 
