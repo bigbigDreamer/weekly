@@ -19,14 +19,8 @@
         s.parentNode.insertBefore(hm, s);
     })();
 </script>
-<link
-    rel="stylesheet"
-    href="https://unpkg.com/@waline/client@v2/dist/waline.css"
-/>
-<link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css" crand mercure
-/>
+<link crossorigin="anonymous" integrity="sha512-HrS3gb42FZlVRuGMVKlliqqX5oFCJdkQfvqkXFjYvOQ46fGUk2+vNCWNqol2aFpUGDxy6GSE7UeW0FAVYX2lOg==" href="https://lib.baomitu.com/waline/2.6.2/waline.min.css" rel="stylesheet">
+<link crossorigin="anonymous" integrity="sha384-9Z9AuAj0Xi0z7WFOSgjjow8EnNY9wPNp925TVLlAyWhvZPsf5Ks23Ex0mxIrWJzJ" href="https://lib.baomitu.com/normalize/latest/normalize.min.css" rel="stylesheet">
 <style>
     .md-grid {
         max-width: 1200px;
@@ -56,7 +50,7 @@
 {% block scripts %}
 {{ super() }}
 {% if page and page.meta and page.meta.template %}
-<script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
+<script crossorigin="anonymous" integrity="sha512-j+h5j4seLtxgQUMpqui8emUHzP8nD1/TRwTpOKcxUMKI1hiCYSVv/3LlyjXiMsq0IhZwk64ocOE+Oo0wu+sXIg==" src="https://lib.baomitu.com/waline/2.6.2/waline.min.js"></script>
 <script>
     Waline.init(
         {
