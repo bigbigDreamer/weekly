@@ -27,9 +27,6 @@ extra:
           data: 0
           note: >-
             感谢反馈，我会继续努力进步的！
-
-
-
   generator: false
   social:
     - icon: fontawesome/brands/github
@@ -53,9 +50,9 @@ theme:
     - content.code.annotate
     # - content.tabs.link
 #    - header.autohide
-    - navigation.expand
+#    - navigation.expand
     #- navigation.indexes
-    - navigation.instant
+#    - navigation.instant 暂时先不开启，，，发现 psa 内切换路由不会重新更新资源...
     - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
