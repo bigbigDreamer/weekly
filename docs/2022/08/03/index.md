@@ -65,6 +65,7 @@ template: main.html
 - 修复了不同周刊切换时 `waline` 评论插件加载失败的问题
 - 新增了页面温馨提示
 - 全站可托管静态资源支持 `HTTP 2.0`
+- 支持周刊创建和更新日期的显示
 
 #### 2. 给 [AktivJs](https://github.com/myNameIsDu/aktiv) 提了个 [`Feature PR`](https://github.com/myNameIsDu/aktiv/pull/84) 支持了 `React` `StrictMode` 模式
 
