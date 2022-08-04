@@ -80,12 +80,13 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: brown
+      primary: green
       toggle:
         icon: material//weather-sunny
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: black
       toggle:
         icon: material/weather-night
         name: Switch to light mode
@@ -121,6 +122,11 @@ plugins:
       height: auto
       zoomable: true
       draggable: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: iso_datetime
+      timezone: Asia/Brunei
+
 
 
 nav:
@@ -130,6 +136,8 @@ nav:
          - 七月:
              - 第1期: ./docs/2022/07/01/index.md
              - 第2期: ./docs/2022/07/02/index.md
+         - 八月:
+             - 第3期: ./docs/2022/08/03/index.md
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
 

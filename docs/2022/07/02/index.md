@@ -11,6 +11,10 @@ template: main.html
 
 ------
 
+!!! tip hint important "温馨提示"
+
+    周刊中所有高亮的内容都可以点击到指定内容的链接～
+
 **关键词：** *技术博客*、*`RegExp`*、*`V8`*、*`UMT`*、*`GitHub Actions`*、*`MonoRepo`*
 
 ## 1. [如何坚持写技术博客？](https://zhuanlan.zhihu.com/p/497150220)
@@ -72,7 +76,7 @@ on:
 
 ## End
 
-最后，简单总结这一个星期的内容～
+最后，简单总结下这一个星期的修炼内容～
 
 #### 1. 给 `weekly` 周刊小站新增了若干能力，迭代至 `Release 2.0.0`，也可查看 [里程碑](/LANDMARK/)
 

@@ -10,6 +10,10 @@ template: main.html
 
 ------
 
+!!! tip hint important "温馨提示"
+
+    周刊中所有高亮的内容都可以点击到指定内容的链接～
+
 **关键词：***`bob`*、*`deepl`*、*`Building future facing frontend architectures`*、*`Oh Shit, Git!?!`*
 
 ## 1. [Building future facing frontend architectures](https://frontendmastery.com/posts/building-future-facing-frontend-architectures)
@@ -49,7 +53,7 @@ template: main.html
 
 ## End
 
-最后，简单总结这一个星期的内容～
+最后，简单总结下这一个星期的修炼内容～
 
 #### 1. 给[AktivJs](https://github.com/myNameIsDu/aktiv) 提了两个 `FIX` `PR`.
 

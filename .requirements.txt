@@ -2,3 +2,4 @@ mkdocs-material
 mkdocs-same-dir
 mkdocs-minify-plugin
 mkdocs-glightbox
+mkdocs-git-revision-date-localized-plugin
