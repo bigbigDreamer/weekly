@@ -36,9 +36,9 @@ template: main.html
 蛮不错的文章，*阮大* 出品，必属精品！下面提供下文章中出现的工具，以及相关文档地址～
 
 - [Dig Command in macOS and Linux(DNS Lookup)](https://akkireddy.medium.com/dig-command-in-macos-and-linux-dns-lookup-f641c2110542)
-   - `Dig Command` 的安装指南
+    - `Dig Command` 的安装指南
 - [DiG HOWTO](https://www.madboa.com/geek/dig/#ttl)
-   - 怎么使用 `Dig`.
+    - 怎么使用 `Dig`.
 
 我浅尝了一下子，发现个有意思的事情，阿里的 `vip` `DNS` 服务器，在 `TLD` 服务器中没有对应的 `ip` 缓存信息：
 
