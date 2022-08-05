@@ -54,6 +54,21 @@ template: main.html
 
 ![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/0ndolO.png)
 
+## 5. [`Antd` 准备出兼容 `v5-to-v4`、`v5-to-v3`、`v4-to-v3` 的包了](https://github.com/ant-design/ant-design/discussions/36909)
+
+可以大致看下 `V5` 的计划～
+
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/GDAXRy.png)
+
+## 6. [The story of a V8 performance cliff in React](https://v8.dev/blog/react-cliff)
+
+在排查问题的时候看到了这篇 `V8` 的文章，文末的最后，有这么一个例子，觉得挺有意思的，拿出来分享一下～
+
+!!! note "笔记"
+
+    写出可读的代码，性能就会随之而来。
+
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/YegjMt.png)
 
 ## End
 
