@@ -28,5 +28,5 @@ jobs:
           content_type: text/html
           html_body: | # file://email.html
               <div><p style="font-size: 15px;margin-bottom: 18px;">Hi, Scholar's Weekly Updated! Please click <a href="${{ github.event.inputs.htmlBody }}">link</a> to visit~</p><img src="https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/duCTmB.jpg"></div>
-          to: jadeface.scholar@gmail.com
+          to: jadeface.scholar@gmail.com,740594228@qq.com
           from: Scholar's Weekly
