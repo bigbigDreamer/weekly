@@ -15,7 +15,7 @@ template: main.html
 
     周刊中所有高亮的内容都可以点击到指定内容的链接～
 
-**关键词：** *`waifuExtension`*、*`release-please`*
+**关键词：** *`waifuExtension`*、*`release-please`*、*`DNS`*、*`Antd`*、*`V8`*、*`CDN`*
 
 ## 1. [waifuExtension](https://github.com/Vaida12345/waifuExtension)
 
