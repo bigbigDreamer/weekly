@@ -34,7 +34,7 @@ template: main.html
 
 ![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/V123HF.png)
 
-正好看到了 `rottenpen` 的周刊中引用了一篇幅 `预加载指南`，这里借链引用下。
+正好看到了 `rottenpen` 的[周刊](https://rottenpen.zhubai.love/posts/2173054010671235072)中引用了一篇 `预加载指南`，这里借链引用下。
 
 - [预加载关键资产以提高加载速度](https://web.dev/preload-critical-assets/)
 
