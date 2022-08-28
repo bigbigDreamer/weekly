@@ -1,0 +1,22 @@
+{
+  "name": "weekly",
+  "version": "1.0.0",
+  "description": "![](https://github.com/bigbigDreamer/weekly/actions/workflows/deploy.yml/badge.svg) [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest) [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/bigbigDreamer/weekly/releases/) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material",
+    "build": "docker build -t squidfunk/mkdocs-material . "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigbigDreamer/weekly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bigbigDreamer/weekly/issues"
+  },
+  "homepage": "https://github.com/bigbigDreamer/weekly#readme"
+}
