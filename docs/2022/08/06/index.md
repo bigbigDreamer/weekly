@@ -110,7 +110,7 @@ let suggestedContent = await fetch("/content/suggested", {priority: "low"});
 
 预计下个星期恢复正常，基本每个月都会抽一个星期去复习看重要的知识。
 
-最后，作为友链，对齐一下大佬周刊： [rottenpen's FE News](https://rottenpen.zhubai.love/posts/2175567962508746752)
+作为友链，对齐一下大佬周刊： [rottenpen's FE News](https://rottenpen.zhubai.love/posts/2175567962508746752)
 
 !!! pied-piper "交个朋友吧～"
 
