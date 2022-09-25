@@ -6,7 +6,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "start": "docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material",
+    "start": "docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material && open http://127.0.0.1:8000",
     "build": "docker build -t squidfunk/mkdocs-material . "
   },
   "repository": {
