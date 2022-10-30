@@ -2,7 +2,7 @@
 template: main.html
 ---
 
-# Scholar's Weekly 第7期
+# Scholar's Weekly 第8期
 
 ![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/dZHXFx.jpg){ loading=lazy }
 
