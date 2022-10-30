@@ -15,7 +15,7 @@ template: main.html
 
     周刊中所有高亮的内容都可以点击到指定内容的链接～
 
-**关键词：** *`typescript`*、*`react`*、*`inspector`*、*`noopener`*、*`csp`*
+**关键词：** *`typescript`*、*`antd`*、*`chrome`*
 
 ## 1. [Typescript 4.8 发布了](https://devblogs.microsoft.com/typescript/announcing-typescript-4-8/)
 

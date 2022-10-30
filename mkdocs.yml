@@ -143,6 +143,8 @@ nav:
              - 第6期: ./docs/2022/08/06/index.md
          - 九月:
              - 第7期: ./docs/2022/09/07/index.md
+         - 十月:
+             - 第8期: ./docs/2022/10/08/index.md
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
 
