@@ -145,6 +145,9 @@ nav:
              - 第7期: ./docs/2022/09/07/index.md
          - 十月:
              - 第8期: ./docs/2022/10/08/index.md
+      - 2023: #2023:
+         - 二月:
+             - 第9期: ./docs/2023/02/09/index.md
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
 
