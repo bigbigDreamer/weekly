@@ -4,7 +4,7 @@ template: main.html
 
 # Scholar's Weekly 第8期
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/dZHXFx.jpg){ loading=lazy }
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/dZHXFx.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp){ loading=lazy }
 
 
 (封面图片来源于：基于 `CC0` 协议的 [stocksnap](https://stocksnap.io/photo/marsh-wetland-QIGOGM5HGI))
@@ -28,7 +28,7 @@ template: main.html
 
 > 相关地址：https://github.com/yyx990803/vite-vs-next-turbo-hmr
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/FsDfeL.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/FsDfeL.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 尤大对比了新出的竞品 `turbopack`，在 `hmr` 上做了 `diff`，留下了后面的结论：
 
@@ -47,7 +47,7 @@ template: main.html
 
 > 相关地址：https://github.com/dothinking/pdf2docx
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/t55k8D.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/t55k8D.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 一款由 `python` 编写的 `pdf` 转 `docs` 工具。
 
@@ -73,9 +73,9 @@ Atuin 使用 SQLite 数据库取代了你现有的 shell 历史，并为你的�
 
 - `pangu` 在经历了几个版本的迭代后，终于可以投入生产正式使用了。
 
-    ![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/nF2PPN.png)
+    ![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/nF2PPN.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
      目前 `roadmap` 完成的核心功能～
-    ![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/VulE1A.png)
+    ![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/VulE1A.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 !!! pied-piper "交个朋友吧～"
 
     我是不换(书生)，"浪子回头金不换"的**不换**，"百无一用是书生"的**书生**，热爱工作，同时在工作之余也热爱开源。

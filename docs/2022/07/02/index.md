@@ -4,7 +4,7 @@ template: main.html
 
 # Scholar's Weekly 第2期
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/QXMTCH.jpg){ loading=lazy }
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/QXMTCH.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp){ loading=lazy }
 
 
 (封面图片来源于：基于 `CC0` 协议的 [stocksnap](https://stocksnap.io/photo/street-desert-WIJKB8LQG8))
@@ -49,7 +49,7 @@ createRegExp(
 
 `Run virtual machines on IOS and MacOS`
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/N86quG.png){ loading=lazy }
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/N86quG.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp){ loading=lazy }
 
 *(图片素材来源于 [UMT](https://getutm.app/)) 官网，二次编辑合成)*
 
@@ -68,11 +68,11 @@ on:
 
 ## 6. [How to Easily Manage Dependencies in a JS Monorepo](https://blog.bitsrc.io/how-to-easily-manage-dependencies-in-a-js-monorepo-6216bd6621ea)
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/Fx2BYB.jpg){ loading=lazy }
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/Fx2BYB.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp){ loading=lazy }
 
 项目开发的依赖问题向来是开发者比较头疼的问题，但是继 `pnpm` 之后，原作者又诞生一大作 [`Bit`](https://bit.cloud/blog/painless-monorepo-dependency-management-with-bit-l4f9fzyw) + [`pnpm`](https://bit.cloud/blog/painless-monorepo-dependency-management-with-bit-l4f9fzyw)。以下是 `Bit` 对于包依赖的输出信息。
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/OHFA7z.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/OHFA7z.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 ## End
 

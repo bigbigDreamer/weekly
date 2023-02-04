@@ -4,7 +4,7 @@ template: main.html
 
 # Scholar's Weekly 第9期
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/aaotcZ.jpg){ loading=lazy }
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/aaotcZ.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp){ loading=lazy }
 
 
 (封面图片来源于：基于 `CC0` 协议的 [stocksnap](https://stocksnap.io/photo/laptop-keyboard-8DNUWZ2MEN))
@@ -20,7 +20,7 @@ template: main.html
 ## 1. [jotai 发布 V2 版本](https://github.com/pmndrs/jotai/releases/tag/v2.0.0)
 > 相关地址：https://github.com/pmndrs/jotai/releases/tag/v2.0.0
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/78Lq1u.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/78Lq1u.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 大概看了下，`jotai` 有这么几个变动点：
 
@@ -48,7 +48,7 @@ const a = atom(
 ## 2. [一个好玩的在线图片转动漫的工具](https://huggingface.co/spaces/akhaliq/AnimeGANv2)
 > 相关地址：https://huggingface.co/spaces/akhaliq/AnimeGANv2
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/0qaEbq.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/0qaEbq.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 ## 3. [Ant Design V5 应用级 CSSinJS 解决方案](https://github.com/ant-design/ant-design/discussions/40489)
 > 相关地址：https://github.com/ant-design/ant-design/discussions/40489

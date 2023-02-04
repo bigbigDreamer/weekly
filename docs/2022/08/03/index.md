@@ -4,7 +4,7 @@ template: main.html
 
 # Scholar's Weekly 第3期
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/FNgMsr.jpg){ loading=lazy }
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/FNgMsr.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp){ loading=lazy }
 
 
 (封面图片来源于：基于 `CC0` 协议的 [stocksnap](https://stocksnap.io/photo/ocean-waves-HH2BJ1I6ZK))
@@ -23,13 +23,13 @@ template: main.html
 
 贴个图感受下效果～
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/2WgK8L.jpg)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/2WgK8L.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 ## 2. [release-please](https://github.com/googleapis/release-please)
 
 原 [standard-version](https://github.com/conventional-changelog/standard-version) 已被弃用，官方推荐使用 [release-please](https://github.com/googleapis/release-please)。
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/FMBIqw.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/FMBIqw.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 ## 3. [DNS 查询原理详解](https://www.ruanyifeng.com/blog/2022/08/dns-query.html)
 
@@ -42,23 +42,23 @@ template: main.html
 
 我浅尝了一下子，发现个有意思的事情，阿里的 `vip` `DNS` 服务器，在 `TLD` 服务器中没有对应的 `ip` 缓存信息：
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/skVnOk.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/skVnOk.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 然后，我经历了一波 `vip` `DNS` 反查，最终找到了它的 `ip` 地址，最终，借着 `DNS` 解析的最后一步，找到了我的 `二级域名` 的 `解析记录`:
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/5lfFcv.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/5lfFcv.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 ## 4. [75CDN](https://cdn.baomitu.com/)
 
 `360` 旗下 `前端静态资源库`，号称 **首个支持 `HTTP/2` 的 `CDN` 服务**，这次周刊站点也统一换了，看下效果：
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/0ndolO.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/0ndolO.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 ## 5. [`Antd` 准备出兼容 `v5-to-v4`、`v5-to-v3`、`v4-to-v3` 的包了](https://github.com/ant-design/ant-design/discussions/36909)
 
 可以大致看下 `V5` 的计划～
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/GDAXRy.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/GDAXRy.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 ## 6. [The story of a V8 performance cliff in React](https://v8.dev/blog/react-cliff)
 
@@ -68,7 +68,7 @@ template: main.html
 
     写出可读的代码，性能就会随之而来。
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/YegjMt.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/YegjMt.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 ## End
 
@@ -88,4 +88,4 @@ template: main.html
 
 大概效果是这样～
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/w3w0Ca.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/w3w0Ca.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)

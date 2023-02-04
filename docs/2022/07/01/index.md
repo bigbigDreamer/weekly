@@ -4,7 +4,7 @@ template: main.html
 
 # Scholar's Weekly 第1期
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/mYREQl.jpg)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/mYREQl.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 (封面图片来源于：基于 `CC0` 协议的 [stocksnap](https://stocksnap.io/photo/pond-water-X4MGQOAX2Q))
 
@@ -49,7 +49,7 @@ template: main.html
 
 [Martin Donath](https://github.com/squidfunk)，也就是 [mkdocs-material](https://github.com/squidfunk/mkdocs-material) 的作者，即将达到他**每个月 $8000**的目标。
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/P1u1rr.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/P1u1rr.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 ## End
 

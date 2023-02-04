@@ -4,7 +4,7 @@ template: main.html
 
 # Scholar's Weekly 第5期
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/Wj8dWr.jpg){ loading=lazy }
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/Wj8dWr.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp){ loading=lazy }
 
 
 (封面图片来源于：基于 `CC0` 协议的 [stocksnap](https://stocksnap.io/photo/ocean-waves-OD9MDQOTAW))
@@ -21,7 +21,7 @@ template: main.html
 
 > 相关地址：[https://github.com/vitest-dev/vitest/releases](https://github.com/vitest-dev/vitest/releases)
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/z8GJo6.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/z8GJo6.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 > c8覆盖率支持现在需要安装同行的依赖项@vitest/coverage-c8。另外，你可以安装 @vitest/coverage-istanbul 来使用 istanbul 覆盖，而不是 c8。
 
@@ -32,7 +32,7 @@ template: main.html
 
 > 相关地址：[https://github.com/resetercss/reseter.css](https://github.com/resetercss/reseter.css)
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/V123HF.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/V123HF.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 正好看到了 `rottenpen` 的[周刊](https://rottenpen.zhubai.love/posts/2173054010671235072)中引用了一篇 `预加载指南`，这里借链引用下。
 
@@ -42,7 +42,7 @@ template: main.html
 
 > 相关地址：[https://dev.to/jmalvarez/dependency-inversion-principle-in-typescript-4nm0](https://dev.to/jmalvarez/dependency-inversion-principle-in-typescript-4nm0)
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/60orIq.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/60orIq.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 老哥分别 `example` 了使用 `TypeScript` 阐述设计模式中的 `5` 个设计原则。
 
@@ -50,7 +50,7 @@ template: main.html
 
 > 相关地址：[https://dev.to/anggapur/user-authentication-with-web3-4he8](https://dev.to/anggapur/user-authentication-with-web3-4he8)
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/zjEoxR.jpg)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/zjEoxR.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 不用收集用户信息，也可识别到用户。
 
@@ -58,7 +58,7 @@ template: main.html
 
 > 相关地址：[https://www.patterns.dev/posts/islands-architecture](https://www.patterns.dev/posts/islands-architecture)
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/u7TWif.jpg)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/u7TWif.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 最近听到的比较多的一个名词：**孤岛架构**
 
@@ -85,7 +85,7 @@ template: main.html
 
 因为以前比较熟悉 `jest`，所以此次迁移 `vitest` 几乎无感，比较喜欢 `vitest` 提供的 `ui` 能力，有些像 `cypress`，很好的体验。
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/w8XM8l.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/w8XM8l.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 #### 3. `montagejs` 中新加了两个包
 

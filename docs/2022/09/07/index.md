@@ -4,7 +4,7 @@ template: main.html
 
 # Scholar's Weekly 第7期
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/Rn8aBz.jpg){ loading=lazy }
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/Rn8aBz.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp){ loading=lazy }
 
 
 (封面图片来源于：基于 `CC0` 协议的 [stocksnap](https://stocksnap.io/photo/ocean-cliff-LHHXHMP77R))
@@ -23,7 +23,7 @@ template: main.html
 
 顺带一提，后续的发版计划。
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/wIX7hp.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/wIX7hp.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 ## 2. [从 Chrome 轻松检测 React 组件源代码！](https://github.com/hand-dot/react-inspector)
 
@@ -31,7 +31,7 @@ template: main.html
 
 ## 3. [Antd 5.0 准备发布 Tour 组件](https://github.com/ant-design/ant-design/discussions/37712)
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/HG5QCP.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/HG5QCP.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 与此同时，这里简单介绍另外一个引导式组件 [react-shepherd](https://github.com/shipshapecode/react-shepherd)
 

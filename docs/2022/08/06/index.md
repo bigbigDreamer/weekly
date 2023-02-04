@@ -4,7 +4,7 @@ template: main.html
 
 # Scholar's Weekly 第6期
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/ThuO4R.jpg){ loading=lazy }
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/ThuO4R.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp){ loading=lazy }
 
 
 (封面图片来源于：基于 `CC0` 协议的 [stocksnap](https://stocksnap.io/photo/surfers-beach-4RUHVKXOYI))
@@ -49,7 +49,7 @@ template: main.html
 
 > 相关地址：[https://addyosmani.com/blog/fetch-priority/](https://addyosmani.com/blog/fetch-priority/)
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/ynyibZ.jpg)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/ynyibZ.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 ```html
 <!-- Increase the priority of this LCP hero image --> 

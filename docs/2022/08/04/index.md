@@ -4,7 +4,7 @@ template: main.html
 
 # Scholar's Weekly 第4期
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/Do7v2a.jpg){ loading=lazy }
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/Do7v2a.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp){ loading=lazy }
 
 
 (封面图片来源于：基于 `CC0` 协议的 [stocksnap](https://stocksnap.io/photo/coastal-island-PNFMDTMB4P))
@@ -76,7 +76,7 @@ template: main.html
 
 讨论来自于 `Umi` 社区，之前没怎么注意 `esbuild` 会进行 **反向"优化"**。
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/0Lw7Tn.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/0Lw7Tn.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 ## End
 
@@ -90,13 +90,13 @@ template: main.html
 
 原因是，`docs` 文档目录会自动排出 `fixtures` 目录，这个在文档中并没有体现，但是我在源码中找到了。
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/TsWjVs.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/TsWjVs.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 #### 3. 给 [`react-chrono`](https://github.com/prabhuignoto/react-chrono) 提了个 [`fix PR`](https://github.com/prabhuignoto/react-chrono/pull/282) : https://github.com/prabhuignoto/react-chrono/pull/282
 
 `GitHub` "遗像" 成功躺在了 `3k+` `star` 的仓库里。
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/CdsqKB.png)
+![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/CdsqKB.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp)
 
 !!! pied-piper "交个朋友吧～"
 
