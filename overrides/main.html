@@ -10,15 +10,6 @@
 {% block styles %}
 {{ super() }}
 <!-- Baidu Analytics -->
-<script async>
-    var _hmt = _hmt || [];
-    (function() {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?9a7e804726e2d74ebf2feb610dfc61af";
-        var s = document.getElementsByTagName("script")[0];
-        s.parentNode.insertBefore(hm, s);
-    })();
-</script>
 <link rel="preload" as="style" crossorigin="anonymous" integrity="sha512-HrS3gb42FZlVRuGMVKlliqqX5oFCJdkQfvqkXFjYvOQ46fGUk2+vNCWNqol2aFpUGDxy6GSE7UeW0FAVYX2lOg==" href="https://lib.baomitu.com/waline/2.6.2/waline.min.css" onload="this.rel='stylesheet';this.onload=null">
 <link rel="preload" as="style" crossorigin="anonymous" integrity="sha384-9Z9AuAj0Xi0z7WFOSgjjow8EnNY9wPNp925TVLlAyWhvZPsf5Ks23Ex0mxIrWJzJ" href="https://lib.baomitu.com/normalize/latest/normalize.min.css" onload="this.rel='stylesheet';this.onload=null">
 <style>
@@ -77,23 +68,33 @@
 {% block scripts %}
 {{ super() }}
 {% if page and page.meta and page.meta.template %}
-<script crossorigin="anonymous" integrity="sha512-j+h5j4seLtxgQUMpqui8emUHzP8nD1/TRwTpOKcxUMKI1hiCYSVv/3LlyjXiMsq0IhZwk64ocOE+Oo0wu+sXIg==" src="https://lib.baomitu.com/waline/2.6.2/waline.min.js"></script>
 <script>
-    console.log("jiazai ")
-    Waline.init(
-        {
-            el: '#waline-container',
-            serverURL: "https://waline.bigdreamer.cc",
-            locale: {
-                level0: '炼体',
-                level1: '炼气',
-                level2: '筑基',
-                level3: '金丹',
-                level4: '元婴',
-                level5: '化神',
-            },
-        }
-    )
+    function loadWaline() {
+        Waline.init(
+            {
+                el: '#waline-container',
+                serverURL: "https://waline.bigdreamer.cc",
+                locale: {
+                    level0: '炼体',
+                    level1: '炼气',
+                    level2: '筑基',
+                    level3: '金丹',
+                    level4: '元婴',
+                    level5: '化神',
+                },
+            }
+        )
+    }
+</script>
+<script onload="loadWaline()" defer crossorigin="anonymous" integrity="sha512-j+h5j4seLtxgQUMpqui8emUHzP8nD1/TRwTpOKcxUMKI1hiCYSVv/3LlyjXiMsq0IhZwk64ocOE+Oo0wu+sXIg==" src="https://lib.baomitu.com/waline/2.6.2/waline.min.js"></script>
+<script async>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?9a7e804726e2d74ebf2feb610dfc61af";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
 </script>
 {% endif %}
 {% endblock %}

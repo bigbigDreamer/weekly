@@ -12,8 +12,8 @@ docs_dir: .
 extra:
   homepage: https://weekly.bigdreamer.cc
   analytics:
-    provider: google
-    property: G-XJPLDWZN92
+#    provider: google
+#    property: G-XJPLDWZN92
     feedback:
       title: 您觉得周刊怎么样？
       ratings:
@@ -38,7 +38,7 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:<jadeface.scholar@gmail.com>
 
-copyright: Copyright &copy; 2022  Scholar(不换)
+copyright: Copyright &copy; 2022-2023  Scholar(不换)
 
 theme:
   favicon: images/favicon.png
