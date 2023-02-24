@@ -17,7 +17,7 @@ template: main.html
 
 ## FE News
 
-**关键词：** *`AppSingle`*、*`React`*、*`Depngn`*、*`Remix`*
+**关键词：** *`Performance`*、*`Map`*、*`DOMPurify`*、*`JSON`*
 
 ### 1. [`a = 0-x`  is about 3-10x faster than `a = -x`  ](https://twitter.com/mhevery/status/1626002464469323777)
 >相关地址：https://twitter.com/mhevery/status/1626002464469323777
