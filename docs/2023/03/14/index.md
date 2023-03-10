@@ -46,8 +46,6 @@ template: main.html
 
 例如：**夫子**、**吾**、**君**、**卿**、**媲**......
 
-![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/X4MAgO.png)
-
 ![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/EAzXbD.png)
 
 ## 4.[Nodejs Toolbox](https://nodejstoolbox.com/)
