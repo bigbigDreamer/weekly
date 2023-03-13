@@ -73,13 +73,6 @@
 {{ super() }}
 {% if page and page.meta and page.meta.template %}
 <script>
-    const data = localStorage.getItem("TEST")
-    if(data !== 'TEST') {
-        localStorage.setItem('TEST', 'TEST')
-        alert("塞完了")
-    } else {
-        alert("拿出来了")
-    }
     function loadWaline() {
         Waline.init(
             {
