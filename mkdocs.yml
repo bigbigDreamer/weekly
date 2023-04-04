@@ -156,6 +156,8 @@ nav:
              - 第14期: ./docs/2023/03/14/index.md
              - 第15期: ./docs/2023/03/15/index.md
              - 第16期: ./docs/2023/03/16/index.md
+         - 四月:
+             - 第17期: ./docs/2023/04/17/index.md
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
 
