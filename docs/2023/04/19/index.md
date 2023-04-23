@@ -17,7 +17,7 @@ template: main.html
 
 ## FE News
 
-**关键词：** *`npm`*、*`Croner`*、*`lazyrepo`*、*`JSPM`*、*`chrome extension`*
+**关键词：** *`npm`*、*`React`*、*`ES2023`*、*`Node`*、*`Vite`*、*`Enum`*
 
 ## 1.[npm-package-provenance](https://github.blog/2023-04-19-introducing-npm-package-provenance/)
 >相关地址：https://github.blog/2023-04-19-introducing-npm-package-provenance
