@@ -160,6 +160,8 @@ nav:
              - 第17期: ./docs/2023/04/17/index.md
              - 第18期: ./docs/2023/04/18/index.md
              - 第19期: ./docs/2023/04/19/index.md
+         - 五月:
+             - 第20期: ./docs/2023/05/20/index.md
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
 
