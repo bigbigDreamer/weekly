@@ -3,3 +3,4 @@ mkdocs-same-dir
 mkdocs-minify-plugin
 mkdocs-glightbox
 mkdocs-git-revision-date-localized-plugin
+mkdocs-rss-plugin
