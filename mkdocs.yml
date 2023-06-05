@@ -187,6 +187,8 @@ nav:
              - 第21期: ./docs/2023/05/21/index.md
              - 第22期: ./docs/2023/05/22/index.md
              - 第23期: ./docs/2023/05/23/index.md
+         - 六月:
+             - 第24期: ./docs/2023/06/24/index.md  
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
 
