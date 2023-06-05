@@ -19,7 +19,7 @@ template: main.html
 
 **关键词：** *`URL`*、*`aimless`*、*`sharedWorker`*、*`React`*、*`quic`*
 
-### 1.[安全的 JavaScript URL 验证](https://snyk.io/blog/secure-javascript-url-validation/?utm_campaign=aom_2023&utm_medium=paid-email&utm_source=cooperpress-javascript-weekly&utm_content=secure-javascript-url-validation)\
+### 1.[安全的 JavaScript URL 验证](https://snyk.io/blog/secure-javascript-url-validation/?utm_campaign=aom_2023&utm_medium=paid-email&utm_source=cooperpress-javascript-weekly&utm_content=secure-javascript-url-validation)
 > 相关地址：https://snyk.io/blog/secure-javascript-url-validation/?utm_campaign=aom_2023&utm_medium=paid-email&utm_source=cooperpress-javascript-weekly&utm_content=secure-javascript-url-validation
 
 当我们在书写 `JavaScript` 时，大部分场景下对于 `URL` 的结构检验，单纯的只是靠简单的正则表达式处理，但是冗长的正则表达式既形成了容易出错的端倪，也容易出现执行缓慢的情况（如果你对此抱有质疑，请详细了解正则表达式的性能问题）。
