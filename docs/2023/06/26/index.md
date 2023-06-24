@@ -17,7 +17,7 @@ template: main.html
 
 ## FE News
 
-**关键词：** *`gists`*、*`chrome for testing`*、*`npm`*、*`TypeScipt`*
+**关键词：** *`gists`*、*`chrome for testing`*、*`npm`*、*`TypeScript`*
 
 
 ### 1.[github gists 跑在 aws lambda，那一定很有趣](https://www.val.town/)
