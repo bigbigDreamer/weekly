@@ -188,16 +188,19 @@ nav:
              - 第22期: ./docs/2023/05/22/index.md
              - 第23期: ./docs/2023/05/23/index.md
          - 六月:
-             - 第24期: ./docs/2023/06/24/index.md  
-             - 第25期: ./docs/2023/06/25/index.md  
-             - 第26期: ./docs/2023/06/26/index.md  
-             - 第27期: ./docs/2023/06/27/index.md 
-         - 七月: 
-             - 第28期: ./docs/2023/07/28/index.md 
-         - 八月: 
-             - 第29期: ./docs/2023/08/29/index.md 
-         - 九月: 
-             - 第30期: ./docs/2023/09/30/index.md 
+             - 第24期: ./docs/2023/06/24/index.md
+             - 第25期: ./docs/2023/06/25/index.md
+             - 第26期: ./docs/2023/06/26/index.md
+             - 第27期: ./docs/2023/06/27/index.md
+         - 七月:
+             - 第28期: ./docs/2023/07/28/index.md
+         - 八月:
+             - 第29期: ./docs/2023/08/29/index.md
+         - 九月:
+             - 第30期: ./docs/2023/09/30/index.md
+      - 2024: #2023:
+          - 一月:
+             -  第31期: ./docs/2024/01/31/index.md
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
 
