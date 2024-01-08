@@ -179,6 +179,7 @@ nav:
       - 2024: #2023:
           - 一月:
              -  第31期: ./docs/2024/01/31/index.md
+             -  第32期: ./docs/2024/01/32/index.md
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
 

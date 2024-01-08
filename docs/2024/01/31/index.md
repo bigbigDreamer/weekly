@@ -2,7 +2,7 @@
 template: main.html
 ---
 
-# Scholar's Weekly 第30期
+# Scholar's Weekly 第31期
 
 ![](https://bigdreamerblog.oss-cn-beijing.aliyuncs.com/nextBlog/fireworks-1880045_1280.jpg?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp){ loading=lazy }
 
