@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Scholar's Weekly
 site_description: 不换写周刊的地方～
-site_url: https://weekly.bigdreamer.cc
+site_url: https://weekly.binlin.wang
 # Repository
 repo_name: bigbigDreamer/weekly
 repo_url: https://github.com/bigbigDreamer/weekly
@@ -10,7 +10,7 @@ edit_uri: ""
 use_directory_urls: true
 docs_dir: .
 extra:
-  homepage: https://weekly.bigdreamer.cc
+  homepage: https://weekly.binlin.wang
   analytics:
 #    provider: google
 #    property: G-XJPLDWZN92
@@ -33,7 +33,7 @@ extra:
       link: https://github.com/bigbigDreamer
       name: Follow Me In GitHub
     - icon: bootstrap/mask
-      link: https://montage.bigdreamer.cc
+      link: https://montage.binlin.wang
       name: montageJs
     - icon: fontawesome/solid/paper-plane
       link: mailto:<jadeface.scholar@gmail.com>

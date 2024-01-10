@@ -18,11 +18,11 @@ jobs:
       - run: pip install -r .requirements.txt
       - run: mkdocs build --strict
       # Generate CNAME File
-      - run: echo weekly.bigdreamer.cc > CNAME
-      - run: echo weekly.bigdreamer.cc > docs/CNAME
+      - run: echo weekly.binlin.wang > CNAME
+      - run: echo weekly.binlin.wang > docs/CNAME
       - uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CUSTOM_DOMAIN: weekly.bigdreamer.cc
+          CUSTOM_DOMAIN: weekly.binlin.wang
           CONFIG_FILE: mkdocs.yml
           REQUIREMENTS: .requirements.txt
