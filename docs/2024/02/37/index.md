@@ -20,7 +20,7 @@ template: main.html
 
 ---
 
-**关键词：** *`Graph`*、*`TypeScript`*、*`Package manager`*、*`CSS In JS`*
+**关键词：** *`Tempo`*、*`Gemini`*、*`Package manager`*、*`JavaScript`*
 
 ## FE News
 
