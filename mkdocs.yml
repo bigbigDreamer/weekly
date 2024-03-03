@@ -186,6 +186,8 @@ nav:
           - 二月:
              -  第36期: ./docs/2024/02/36/index.md
              -  第37期: ./docs/2024/02/37/index.md
+          - 三月:
+             -  第38期: ./docs/2024/03/38/index.md
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
 
