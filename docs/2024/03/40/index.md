@@ -50,19 +50,19 @@ template: main.html
 ### 4.[Make Your Functions More Reusable With Generics](https://www.totaltypescript.com/make-your-functions-more-reusable-with-generics)
 > 相关地址：https://www.totaltypescript.com/make-your-functions-more-reusable-with-generics
 
-使用泛型让您的函数更具被可重用性。
+使用泛型让您的函数更具备可重用性。
 
 ### 5.[Playwright](https://playwright.dev/docs/codegen)
 > 相关地址：https://playwright.dev/docs/codegen
 
-简单的在界面上操作一番，就可以生成 `e2e` 的交互测试用例，我用称之为 `单元测试之史上最叼`。
+简单的在界面上操作一番，就可以生成 `e2e` 的交互测试用例，我愿称之为 `单元测试之史上最叼`。
 
 ![](https://bigdreamerblog.oss-cn-beijing.aliyuncs.com/nextBlog/UAKOKR.png)
 
 ### 6.[Git 中 Head 是如何工作的](https://jvns.ca/blog/2024/03/08/how-head-works-in-git/)
 > 相关地址：https://jvns.ca/blog/2024/03/08/how-head-works-in-git/
 
-更好的理解 `Git` 中的 `HEAD` 是如何工作的。
+更好地理解 `Git` 中的 `HEAD` 是如何工作的。
 
 
 ## End
