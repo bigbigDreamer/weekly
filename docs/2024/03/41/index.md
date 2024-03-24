@@ -3,7 +3,7 @@
 template: main.html
 ---
 
-# Scholar's Weekly 第40期
+# Scholar's Weekly 第41期
 
 ![](https://bigdreamerblog.oss-cn-beijing.aliyuncs.com/nextBlog/i1WQju.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp){ loading=lazy }
 
