@@ -26,5 +26,3 @@ jobs:
           CUSTOM_DOMAIN: weekly.binlin.wang
           CONFIG_FILE: mkdocs.yml
           REQUIREMENTS: .requirements.txt
-      - run: echo 12432422502508732305 > tencent13364087406854908580.txt
-      - run: cp docs/tencent13364087406854908580.txt tencent13364087406854908580.txt
