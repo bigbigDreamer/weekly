@@ -20,11 +20,11 @@ jobs:
       # Generate CNAME File
       - run: echo weekly.binlin.wang > CNAME
       - run: echo weekly.binlin.wang > docs/CNAME
-      - run: echo 12432422502508732305 > tencent13364087406854908580.txt
-      - run: cp docs/tencent13364087406854908580.txt tencent13364087406854908580.txt
       - uses: mhausenblas/mkdocs-deploy-gh-pages@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CUSTOM_DOMAIN: weekly.binlin.wang
           CONFIG_FILE: mkdocs.yml
           REQUIREMENTS: .requirements.txt
+      - run: echo 12432422502508732305 > tencent13364087406854908580.txt
+      - run: cp docs/tencent13364087406854908580.txt tencent13364087406854908580.txt
