@@ -2,7 +2,7 @@
 template: main.html
 ---
 
-# Scholar's Weekly 第44期
+# ryanwang's weekly 第44期
 
 ![](https://bigdreamerblog.oss-cn-beijing.aliyuncs.com/nextBlog/W72keY.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp){ loading=lazy }
 
@@ -58,8 +58,8 @@ template: main.html
 
 这里小记一个 `todo` ，做一件事，简单写一个脚手架，实现 `changeset` 的命令行 `patch`。
 
-### 5.[Porkbun 开启了 dev、app、foo](https://porkbun.com/land/get-dot-app-domain-dev-domain-foo-domain?coupon=APPDEVFOO5&utm_source=JavaScriptWeekly&utm_medium=newsletter&utm_campaign=GoogleRys2024)
-> 相关地址：https://porkbun.com/land/get-dot-app-domain-dev-domain-foo-domain?coupon=APPDEVFOO5&utm_source=JavaScriptWeekly&utm_medium=newsletter&utm_campaign=GoogleRys2024
+### 5.[Porkbun 开启了 dev、app、foo](https://porkbun.com/land/get-dot-app-domain-dev-domain-foo-domain?coupon=APPDEVFOO5&utm_source=JavaScriptweekly&utm_medium=newsletter&utm_campaign=GoogleRys2024)
+> 相关地址：https://porkbun.com/land/get-dot-app-domain-dev-domain-foo-domain?coupon=APPDEVFOO5&utm_source=JavaScriptweekly&utm_medium=newsletter&utm_campaign=GoogleRys2024
 
 在 `Porkbun` 网站中开放了 `.dev`、`.app`、`.foo` 等域名的注册，首年仅需：`$5`。
 

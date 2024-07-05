@@ -2,7 +2,7 @@
 template: main.html
 ---
 
-# Scholar's Weekly 第27期
+# ryanwang's weekly 第27期
 
 ![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/common/ut3YYI.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp){ loading=lazy }
 

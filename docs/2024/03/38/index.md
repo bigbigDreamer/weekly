@@ -2,7 +2,7 @@
 template: main.html
 ---
 
-# Scholar's Weekly 第38期
+# ryanwang's weekly 第38期
 
 ![](https://bigdreamerblog.oss-cn-beijing.aliyuncs.com/nextBlog/3QlTKm.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_90/format,webp){ loading=lazy }
 

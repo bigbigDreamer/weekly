@@ -4,3 +4,4 @@ mkdocs-minify-plugin
 mkdocs-glightbox
 mkdocs-git-revision-date-localized-plugin
 mkdocs-rss-plugin
+mkdocs-material[imaging]
