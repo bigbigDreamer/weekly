@@ -10,11 +10,6 @@ edit_uri: ""
 use_directory_urls: true
 docs_dir: .
 extra:
-  consent:
-    title: 是否同意使用您浏览器的 Cookie ？
-    description: >-
-      我们使用 Cookie 来识别您的重复访问和偏好，以便更好地为您分享周刊内容。点击“同意”立即开始您的旅程吧！
-
   homepage: https://weekly.binlin.wang
   analytics:
 #    provider: google
@@ -216,6 +211,7 @@ nav:
           - 七月:
              -  第48期: ./docs/2024/07/48/index.md
              -  第49期: ./docs/2024/07/49/index.md
+             -  第50期: ./docs/2024/07/50/index.md
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
 
