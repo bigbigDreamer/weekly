@@ -133,8 +133,6 @@ plugins:
       enable_creation_date: true
       type: iso_datetime
       timezone: Asia/Brunei
-  - social
-
 
 
 nav:
