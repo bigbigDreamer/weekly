@@ -211,6 +211,9 @@ nav:
              -  第49期: ./docs/2024/07/49/index.md
              -  第50期: ./docs/2024/07/50/index.md
              -  第51期: ./docs/2024/07/51/index.md
+          - 九月:
+              - 第52期: ./docs/2024/09/52/index.md
+
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
 
