@@ -20,7 +20,7 @@ template: main.html
 
 ---
 
-**关键词：** *`ES5`*、 *`TypeScript 5.6`* 、*`EsLint`*、*`Express 5.0`*
+**关键词：** *`AbortController`*、 *`函数式编程`* 、*`SVG`*
 
 ## FE News
  
