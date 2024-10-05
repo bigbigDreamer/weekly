@@ -215,6 +215,8 @@ nav:
               - 第52期: ./docs/2024/09/52/index.md
               - 第53期: ./docs/2024/09/53/index.md
               - 第54期: ./docs/2024/09/54/index.md
+          - 十月:
+              - 第55期: ./docs/2024/10/55/index.md
 
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
