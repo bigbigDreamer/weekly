@@ -133,6 +133,12 @@ plugins:
       enable_creation_date: true
       type: iso_datetime
       timezone: Asia/Brunei
+  - rss:
+      match_path: "docs/.*"
+      enabled: true
+      date_from_meta:
+        as_creation: date.created
+        as_update: date.updated
 
 
 nav:
@@ -217,6 +223,7 @@ nav:
               - 第54期: ./docs/2024/09/54/index.md
           - 十月:
               - 第55期: ./docs/2024/10/55/index.md
+              - 第56期: ./docs/2024/10/56/index.md
 
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
