@@ -121,14 +121,6 @@ plugins:
   - search
   - minify:
       minify_html: true
-  - glightbox:
-      touchNavigation: true
-      loop: false
-      effect: zoom
-      width: 100%
-      height: auto
-      zoomable: true
-      draggable: true
   - git-revision-date-localized:
       enable_creation_date: true
       type: iso_datetime
