@@ -223,6 +223,7 @@ nav:
       - 2025: #2023:
           - 二月:
               - 第59期: ./docs/2025/02/59/index.md
+              - 第60期: ./docs/2025/02/60/index.md
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
 
