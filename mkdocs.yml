@@ -45,7 +45,7 @@ extra:
     - icon: fontawesome/solid/paper-plane
       link: mailto:<jadeface.scholar@gmail.com>
 
-copyright: Copyright &copy; 2022-2025  ryanwang(不换)
+copyright: Copyright &copy; 2022-2026  ryanwang(不换)
 
 theme:
   favicon: images/favicon.png
@@ -224,6 +224,9 @@ nav:
           - 二月:
               - 第59期: ./docs/2025/02/59/index.md
               - 第60期: ./docs/2025/02/60/index.md
+      - 2026:
+          - 一月:
+              - 第61期: ./docs/2026/01/61/index.md
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
 
