@@ -6,7 +6,7 @@ template: main.html
 
 ![](https://to-out-use.oss-cn-hangzhou.aliyuncs.com/source/01eIxJ.png?x-oss-process=image/auto-orient,1/interlace,1/quality,q_30/format,webp){ loading=lazy }
 
-(封面图片来源于：基于 `CC0` 协议的 [shopify](https://www.shopify.com/stock-photos/photos/dusty-rose))
+(封面图片来源于：Nano Banana AI 生成)
 
 
 ------
