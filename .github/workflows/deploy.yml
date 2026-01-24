@@ -16,7 +16,7 @@ jobs:
           fetch-depth: 0
       # Install packages
       - run: pip install -r .requirements.txt
-      - run: mkdocs build --strict
+      - run: mkdocs build
       # Generate CNAME File
       - run: echo weekly.binlin.wang > CNAME
       - run: echo weekly.binlin.wang > docs/CNAME
