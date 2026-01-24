@@ -227,6 +227,7 @@ nav:
       - 2026:
           - 一月:
               - 第61期: ./docs/2026/01/61/index.md
+              - 第62期: ./docs/2026/01/62/index.md
   - 声明: ./DECLARATION.md
   - 里程碑: ./LANDMARK.md
 
